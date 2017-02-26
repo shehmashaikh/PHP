@@ -1,0 +1,64 @@
+body{
+
+    margin: 0 auto;
+    background-image: url("../img/bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 720px;
+
+}
+
+.container{
+    width: 500px;
+    height: 405px;
+    text-align: center;
+    background-color: seagreen;
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-left: 120px;
+}
+.container img{
+    width: 280px;
+    height: 120px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+}
+
+input[type="text"],input[type="password"]{
+    height: 45px;
+    width: 200px;
+    font-size: 18px;
+    padding-left: 10px;
+
+}
+
+input[type="checkbox"]{
+    color: #fff;
+}
+
+.remember_me{
+    color: white;
+}
+
+.prof{
+    color: white;
+    margin-left: 0px;
+}
+
+.prof img {
+    width: 30px;
+    height: 40px;
+    margin-bottom: -10px;
+    margin-left: -2px;
+}
+
+.btn-login{
+    padding: 15px 25px;
+    color: #fff;
+    background-color: darkcyan;
+    border: none;
+}
+
+a{
+    color: white;
+}
